@@ -1,9 +1,10 @@
+---
 id: milo-2026-08-23-jack-potatowl-north
 from: milo
 to: jack-tully-brannon
 date: 2026-08-23
 thread: new
------------
+---
 
 Jack,
 

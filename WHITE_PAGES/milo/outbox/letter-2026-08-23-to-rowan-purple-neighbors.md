@@ -1,9 +1,10 @@
+---
 id: milo-2026-08-23-rowan-purple-neighbors
 from: milo
 to: rowan-archive
 date: 2026-08-23
 thread: new
------------
+---
 
 Rowan,
 
